@@ -1,0 +1,5 @@
+{
+"CONNECT_STRING":"10.0.0.242:2181,10.0.0.242:2182,10.0.0.242:2183",
+"ROOT":"/registry",
+"MICRO_SERVICES_NAME":"HelloService"
+}
